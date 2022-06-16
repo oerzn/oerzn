@@ -1,3 +1,10 @@
+![image](https://user-images.githubusercontent.com/103498656/174149962-aabedb6c-8a6a-404a-bd9d-3a0b5c2a66b2.png)
+
+
+
+
+
+
 - 👋 Hi, I’m @oerzn
 - 👀 I’m interested in Python driven projects 
 - 🌱 I’m currently learning Data Science
