@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Harsh(Oerzn)</h1>
+<h1 align="center">Hi 👋, I'm Harsh Kashyap </h1>
 <h3 align="center">A passionate Python developer from India</h3>
+
+![1_jB76MLZjiNhGSQQvxm7LSQ](https://user-images.githubusercontent.com/103498656/174150899-3b46b04b-c4f1-43ba-8a13-eb4105da7921.gif)
+
 
 - 🔭 I’m currently working on **Python driven projects**
 
@@ -8,6 +11,7 @@
 - 💬 Ask me about **anything, I am ready to help**
 
 - 📫 How to reach me **Text me on LinkedIn**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
