@@ -13,7 +13,7 @@
 - 💬 Ask me about **anything, I am ready to help**
 
 - 📫 How to reach me **Text me on LinkedIn**
-- 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
