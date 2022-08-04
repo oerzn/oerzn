@@ -1,6 +1,6 @@
 ![1_jB76MLZjiNhGSQQvxm7LSQ](https://user-images.githubusercontent.com/103498656/174150899-3b46b04b-c4f1-43ba-8a13-eb4105da7921.gif)
 
-<h1 align="center">Hi 👋, I'm Harsh Kashyap </h1>
+<h1 align="center">Hi 👋, I'm Harsh </h1>
 
 
 
