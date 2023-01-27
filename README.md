@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Python driven projects**
+- 🔭 I’m currently working on **Python and Machine Learning driven projects**
 
 - 🌱 I’m currently learning **Full Stack development**
 
