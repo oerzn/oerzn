@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **Python and Machine Learning driven projects**
+<h2 align="center">- 🔭 I’m currently working on **Python and Machine Learning driven projects** </h2>
 
 - 🌱 I’m currently learning **Full Stack development**
 
