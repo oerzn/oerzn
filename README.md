@@ -1,13 +1,13 @@
 
 
 
-<h1 align="center">Hello👋 there, I'm Harsh </h1>
+<h1 align="center">Hello👋there, I'm Harsh </h1>
 
 
 
 
 
-<h3 align="center"> 🔭 I’m currently working on **Python and Machine Learning driven projects** </h3>
+<h3 align="center"> 🔭 I’m currently working  on **Python and Machine Learning driven projects** </h3>
 
 - 🌱 I’m currently learning **Full Stack development**
 
@@ -36,5 +36,5 @@
 </br>
 
 ### :zap: Github Stats
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=oerzn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Harsh's Github Stats" width="48%">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=oerzn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Harsh's Github Stats" width="50%">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=oerzn&theme=github-dark" width="48%">
