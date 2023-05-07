@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/i_harsh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_harsh01" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/hoerzn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hoerzn" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/harshk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshK7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hoerzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hoerzn" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/HarshK7" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/103498656/182222506-34b0141a-9cdc-4c8b-8ffa-3287a068913f.png)" alt="h" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@harsh1558" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@harsh1558" height="30" width="40" /></a>
