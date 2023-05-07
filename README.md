@@ -24,7 +24,7 @@
 - 🖥️ I take part in coding comeptitions and do competitive programming.
 
 - 📫 How to reach me Text me on [LinkedIn ](https://www.linkedin.com/in/harshkashyap/)
-- My Hacktoberfest 2022: [Hackertoberfest ](https://www.holopin.io/@harshk7#badges)
+- My Hacktoberfest 2022 badges: [Hackertoberfest ](https://www.holopin.io/@harshk7#badges)
 
 
 
