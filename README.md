@@ -16,21 +16,24 @@
 
 
 
-<h3 align="center"> 🔭 I'm good at **Python, Machine Learning and Full-Stack** </h3>
 
-- 🌱 I’m currently learning **Full Stack development** and starting **Open source contribution**
+- 🌱 I’m currently learning **Full Stack development** and starting **Open source contribution.**
 
-- 💬 Ask me about **anything, I am ready to help**
+- 💬 Ask me about **Python, DSA, HTML, CSS, and Javascript.**
 
-- 🖥️ I take part in coding comeptitions and do competitive programming.
+- 🖥️ I take part in coding competitions and do competitive programming.
 
-- 📫 How to reach me Text me on [LinkedIn ](https://www.linkedin.com/in/harshkashyap/)
+- 📫 How to Text me on [LinkedIn ](https://www.linkedin.com/in/harshkashyap/)
+  
 - My Hacktoberfest 2022 badges: [Hackertoberfest ](https://www.holopin.io/@harshk7#badges)
 
 
-
 <h3 align="left">Connect with me:</h3>
+
+
 <p align="left">
+ 
+  
 <a href="https://twitter.com/i_harsh01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i_harsh01" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harshk7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshK7" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hoerzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hoerzn" height="30" width="40" /></a>
