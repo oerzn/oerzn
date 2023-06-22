@@ -1,9 +1,10 @@
 
 
 
-<h1 align="center">Hello👋there, I'm Harsh </h1>
+<h1 align="center">Hello, World! </h1>
 <br>
-<br>
+
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=This+is+Harsh." /><br>
 <p align="center">
 <br>
 <a href="https://www.linkedin.com/in/harshkashyap/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
